@@ -25,7 +25,6 @@ This project is based on a **peer-graded assignment** from **“Capstone: Retrie
 * **SQLite** (Data Storage)
 * **BeautifulSoup** (HTML Parsing)
 * **D3.js** (Visualization)
-* **HTML / CSS** (Frontend)
 
 ## 🔹 Screenshots
 *Screenshots of terminal execution and graph visualization are included below:*
