@@ -49,7 +49,7 @@ fhand.write('],\n')
 cur.execute('''SELECT DISTINCT from_id, to_id FROM Links''')
 fhand.write('"links":[\n')
 
-count = 1
+count = 0
 for row in cur :
     # print row
     if row[0] not in map or row[1] not in map : continue
