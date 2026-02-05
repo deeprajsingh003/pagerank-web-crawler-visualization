@@ -1,4 +1,4 @@
-# 📌 Project: PageRank Web Crawler & Visualization
+# 📌 Project:- PageRank Web Crawler & Visualization
 
 ## 🔹 Overview
 This project implements a simplified **PageRank algorithm** by crawling web pages, building a link graph, and visualizing the results using a force-directed layout.
