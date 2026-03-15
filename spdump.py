@@ -1,6 +1,6 @@
 # Original code provided by University of Michigan (Dr. Charles Severance)
 
-# Executed and customized by Deepraj Singh
+# Executed & customized by Deepraj Singh
 
 import sqlite3
 
