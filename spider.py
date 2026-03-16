@@ -145,7 +145,7 @@ while True:
         except:
             print('Could not retrieve id')
             continue
-        # print fromid and toid
+        # print fromid & toid
         cur.execute('INSERT OR IGNORE INTO Links (from_id, to_id) VALUES ( ?, ? )', ( fromid, toid ) )
 
 
