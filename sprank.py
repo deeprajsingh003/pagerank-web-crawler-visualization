@@ -2,7 +2,7 @@
 
 # Modified and Executed By Deepraj Singh 
 
-import sqlite3
+import sqlite5
 
 conn = sqlite3.connect('spider.sqlite')
 cur = conn.cursor()
