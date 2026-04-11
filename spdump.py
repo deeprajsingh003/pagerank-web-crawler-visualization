@@ -2,8 +2,6 @@
 
 # Executed & customized by Deepraj Singh
 
-# Demo 
-
 import sqlite3
 
 conn = sqlite3.connect('spider.sqlite')
