@@ -48,4 +48,4 @@ This project is based on a **peer-graded assignment** from **“Capstone: Retrie
 * Visualizing graph-based data effectively using **D3.js**.
 
 ## 🔹 Notes on Reproducibility
-Some original training URLs are no longer consistently accessible. The included screenshots show successful executions and visualizations from my runs.
+Some original training URLs are no longer consistently accessible. The included screenshots show successful executions & visualizations from my runs.
