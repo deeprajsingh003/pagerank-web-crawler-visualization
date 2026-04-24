@@ -17,7 +17,7 @@ This project is based on a **peer-graded assignment** from **“Capstone: Retrie
 ## 🔹 My Contributions / Customization
 * Cleaned the project structure (removed unnecessary cache/backup files).
 * Re-ran and verified the pipeline end-to-end.
-* Organized outputs and screenshots clearly.
+* Organized outputs & screenshots clearly.
 * Added documentation explaining the workflow and learnings.
 
 ## 🔹 Technologies Used
